@@ -12,7 +12,7 @@ program ini merupakan hasil perkuliahan saya di matakuliah cryptography, karna p
 
 ## Penggunaan
 
-1.  Clone / download repository : `git clone `
+1.  Clone / download repository : `git clone https://github.com/oendnsk675/aes-enkripsi`
 2.  Masuk ke directory project : `cd aes-enkripsi`
 3.  Buka file run.py di code editor kalian dan lakukan perubahan matrix plain, plain_tmp dan key sesuai dengan matrix hexadecimal kalian, untuk plain dan plain_tmp itu matrix yang sama.
 4.  jalankan project : `python run.py`
