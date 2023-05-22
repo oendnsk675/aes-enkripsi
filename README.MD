@@ -21,4 +21,4 @@ program ini merupakan hasil perkuliahan saya di matakuliah cryptography, karna p
 ## Note
 
 jika ada issue bisa bikin issue di tab issues di github.
-jika ada pertanyaan private, contact me on : [WhatsApp](wa.me/6281917320977)
+jika ada pertanyaan private, contact me on : [WhatsApp](https://wa.me/6281917320977)
